@@ -1,4 +1,10 @@
+<h3><br>I'm Yigit<br>Software Developer</h3>
+
 <img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy.gif" width="400" height="300" align="center" />
+
+
+
+
 <!--
 
 - 🔭 I’m currently working on ...
