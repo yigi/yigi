@@ -1,9 +1,5 @@
-### Hi there 👋
-
+<img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy.gif" width="400" height="300" align="center" />
 <!--
-**yigi/yigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
