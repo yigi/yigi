@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy-downsized.gif" width="650" height="450" align="center" />
-
+<p align="center">
+<img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy-downsized.gif" width="550" height="350" align="center" />
+</p>
 
 <!--
 
