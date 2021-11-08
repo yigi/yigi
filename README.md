@@ -1,6 +1,6 @@
 <h3><br>I'm Yigit<br>Software Developer</h3>
 
-<img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy-downsized.gif" width="400" height="300" align="center" />
+<img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy-downsized.gif" width="800" height="350" align="center" />
 
 
 
