@@ -11,7 +11,7 @@ application design/development
  - 👨🏻‍💻 I’m currently working on a "Microservice" project;
  - 🚀 I’m currently learning Spring;
  - 💬 Ask me about anything, I am happy to help;
- - 📝 I will start writing articles on Medium;
+ - 📝 I will start writing articles on dev.to;
  - 📫 How to reach me:  <a href="https://www.linkedin.com/in/yigiterkal/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
