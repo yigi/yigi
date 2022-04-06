@@ -4,9 +4,7 @@ I am an Agile software developer in an international project with 4 years experi
 interface and designing database systems. Skilled at team collaboration and willing to learn web
 application design/development
 <br /><br />
-<p align="center">
-<img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy-downsized.gif" width="358" height="218" align="right" />
-</p>
+
 
  - 👨🏻‍💻 I’m currently working as a Java Developer;
  - 🚀 I’m currently learning Spring;
