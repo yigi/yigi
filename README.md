@@ -9,7 +9,7 @@ application design/development
  - 👨🏻‍💻 I’m currently working as a Java Developer;
  - 🚀 I’m currently learning Spring;
  - 💬 Ask me about anything, I am glad to help;
- - 📝 I will start writing articles on dev.to;
+ - 📝 Check my <a href="https://dev.to/yigi" target="_blank">dev.to</a> posts;
  - 📫 How to reach me:  <a href="https://www.linkedin.com/in/yigiterkal/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
